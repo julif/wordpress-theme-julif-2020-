@@ -18,7 +18,7 @@ tema para la pagina web de julian filardi [julifweb.com](http://julifweb.com/).
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).## Cosas por hacer
+This project is open source and available under the [MIT License](LICENSE).
 
 
 
