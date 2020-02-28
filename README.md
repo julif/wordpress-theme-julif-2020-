@@ -17,9 +17,9 @@ tema para la pagina web de julian filardi [julifweb.com](http://julifweb.com/).
 
 - [Julian Filardi](http://julifweb.com/)
 
-<a href="https://patreon.com/taniarascia"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/taniarascia&style=for-the-badge" alt="Patreon donate button" /> </a>
+<a href="https://patreon.com/taniarascia"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/julif&style=for-the-badge" alt="Patreon donate button" /> </a>
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1GNP8)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2YAXE)
 
 ## License
 
