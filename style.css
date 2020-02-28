@@ -1,0 +1,61 @@
+/*   
+Theme Name: Julif 2020
+Author: Julif
+Author URI: http://julifweb.com/
+Version: 0.1
+Description: tema de wordpress para mi pagina web.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: julif
+*/
+:root {
+	/* --body-bg-color: #243140;
+	--body-bg-color: #e3e5ee;
+	
+
+    --main-bg-color: white;
+    --main-max-width: 1200px;
+    --active-color: #29abe0;
+    --active-color: #f6b606; */
+}
+
+/* main{
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    margin: 0px auto;
+}
+post{
+	display: block;
+	background-color: white;
+	padding: 30px;
+	margin-top: 30px;
+}
+p {
+    font-family: "proxima-nova",sans-serif !important;
+    font-size: 20px !important;
+    line-height: 1.3 !important;
+    color: #444;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+main h1 {
+    font-size: 40px;
+    line-height: 40px;
+	color: black;
+}
+main h1 a{
+	text-decoration: none;
+	color: black;
+}
+body{
+	height: 100%;
+    font-family: "proxima-nova",sans-serif;
+    background-color: var(--body-bg-color);
+    margin: 0px;
+}
+.wp-block-image img{
+	width: 100%;
+	height: auto;
+	margin: auto;
+} */
